@@ -1,0 +1,17 @@
+$number : 3/4;
+
+.testing {
+  width: percentage(5/7);
+}
+
+.hello {
+  height: percentage($number);
+}
+
+body {
+  background: blue;
+}
+
+h1 {
+  color: red;
+}
