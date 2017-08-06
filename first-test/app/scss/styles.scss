@@ -9,9 +9,16 @@ $number : 3/4;
 }
 
 body {
-  background: blue;
+  background: teal;
 }
 
 h1 {
   color: red;
+}
+
+section {
+  max-width: 960px;
+  margin: 0 auto;
+  background: #fff;
+  padding: 20px;
 }
